@@ -89,16 +89,16 @@
 #region
 //home task:5 Verilmiş n tam ədədinin sadə və ya mürəkkəb ədəd olduğunu tapın.
 
-//int num = 11;
+//int n = 11;
 
-//if (num == 1 && num < 0)
+//if (n == 1 && num < 0)
 
 //    Console.WriteLine(" duzgun eded daxil et");
 
 //int count = 0;
-//for (int i = 1; i <= num; i++)
+//for (int i = 1; i <= n; i++)
 //{
-//    if (num % i == 0)
+//    if (n % i == 0)
 //    {
 //        count++;
 //    }
